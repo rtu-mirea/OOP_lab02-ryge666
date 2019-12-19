@@ -17,7 +17,7 @@ public class Task1 {
     }
 
     public void ConsoleInPut() {
-        str = "Рябов Г.М., ryabov@mail.ru. Сидоров Д.Л., sidorov@yandex.com. Смирнов С.С., smirnov@gmail.com.";
+        str = "Сидоров Д.Л., sidorov@yandex.com. Смирнов С.С., smirnov@gmail.com.";
     }
 
     public void consoleOut() {
